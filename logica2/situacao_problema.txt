@@ -1,0 +1,74 @@
+Para mover os arquivos: selecione o arquivo, arraste e solte para a
+pasta.
+2- Verifique as conexões
+Definir como padrão nas configurações para: impressoras e scanners
+Checar a fila de impressão e cancelar documentos travados.
+3- Clique na tecla “alt +F4”
+
+4- Abra o Windows Update em configurações &gt; atualização e segurança e
+Clicar em “baixar e instalar” as atualizações pendentes
+Após as atualizações serem baixadas, o sistema pode solicitar um
+reinício para concluir a instalação. É importante realizar esse passo,
+pois algumas atualizações exigem uma reinicialização para funcionar
+corretamente
+Confira se o funcionamento está ocorrendo normalmente, se tiver lento
+entre em “gerenciador de tarefas”.
+5- Não abrir o arquivo imediatamente
+Verificar a ameaça no Windows Defender e seguir as orientações de
+remoção ou quarentena
+Realizar uma verificação completa do sistema para detectar outras
+ameaças
+Excluir o arquivo suspeito se ele for de uma fonte não confiável
+Garantir que o Windows e o Defender estejam atualizados
+Verificar a origem do arquivo, garantindo que seja de um site confiável.
+6- Usar a Limpeza de Disco
+Desinstalar programas desnecessários
+Mover arquivos grandes para a nuvem ou disco externo
+Excluir arquivos temporários e limpar o cache
+Excluir pontos de restauração antigos
+Compactar arquivos grandes.
+7- Veja se está conectado á rede correta
+Reinicie o computador e o moldem
+Checar as configurações de rede no centro de rede e compartilhamento
+Vá até a solução de problemas de rede do Windows
+Atualize os drives da rede.
+8- Criar contas abrindo as configurações depois vá em contas e clique em
+família e outros usuários
+Definir as permissões como administrador ou padrão
+
+Gerenciar as contas em abrindo o painel de controle e clicando em
+contas de usuários
+Garantindo que os alunos não alterem os arquivos dos colegas.
+9- Verificar a lixeira e restaurar a pasta, se ainda estiver lá
+Usar o histórico de arquivos para restaurar versões anteriores, se
+ativado
+Restaurar a partir de um backup recente, se disponível
+Usar software de recuperação de arquivos
+Verifique a lixeira de serviços de nuvem.
+10- Abra configurações e vá para aplicativos
+Selecione aplicativos padrão
+Clique no navegador atual na seção &gt; Navegador da Web
+Escolha o novo navegador desejado.
+11- Clique com o botão direito na área de trabalho e selecione
+Configurações de exibição
+Em Resolução de tela, escolha uma resolução mais alta ou
+recomendada
+Ajuste a escala para reduzir o tamanho dos ícones, se necessário.
+Clique em Aplicar para confirmar as alterações.
+12- Abrir configurações e ir em facilidade de acesso
+Na seção exibição, ajustar o controle deslizante “tamanho do texto”
+Clique em aplicar.
+13- Abrir o painel de controle e acessar recuperação
+Selecione abrir restauração do sistema e escolha um ponto de
+restauração anterior á instalação do programa suspeito
+Confirma e clique em concluir para iniciar a restauração.
+14- No Menu Inicial, pesquise “Word”
+Clique com o botão direito sobre o ícone do Word e selecione abrir local
+do arquivo
+Na pasta, clique com o botão direito no ícone do Word e selecione
+enviar para &gt; área de trabalho.
+15- Abra o gerenciador de tarefas (ctrl + shift + esc)
+Vá para aba inicializar
+Clique com o botão direito nos programas desnecessários e selecione
+ativar
+Feche o gerenciador de tarefas.
